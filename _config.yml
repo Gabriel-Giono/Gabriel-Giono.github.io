@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriel Giono / Window to the World"
+title                    : "Gabriel Giono Hello World"
 title_separator          : "-"
 name                     : &name "Gabriel Giono"
 description              : &description "AIV engineer"
@@ -84,11 +84,11 @@ analytics:
 author:
   name             : "Gabriel Giono"
   avatar           : "profile.png"
-  bio              : "Rocket scientist"
+  bio              : "Rocket scientist \n Space instrumentalist"
   location         : "München, GERMANY"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    :
   email            :
   linkedin         : "gabriel-giono"
   researchgate     : "https://www.researchgate.net/profile/Gabriel_Giono"
