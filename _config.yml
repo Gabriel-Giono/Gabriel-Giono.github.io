@@ -11,7 +11,7 @@ title                    : "Gabriel Giono Hello World"
 title_separator          : "-"
 name                     : &name "Gabriel Giono"
 description              : &description "AIV engineer"
-url                      : https://gabriel-giono.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gabriel-giono.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Gabriel-Giono/Gabriel-Giono.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,8 +83,8 @@ analytics:
 # Site Author
 author:
   name             : "Gabriel Giono"
-  avatar           : "profile.png"
-  bio              : "Rocket scientist \n Space instrumentalist"
+  avatar           : "GabrielPicture.jpg"
+  bio              : "Space instrumentalist, Researcher, AIT engineer & Rocket scientist"
   location         : "München, GERMANY"
   employer         :
   pubmed           :
