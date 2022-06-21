@@ -2,7 +2,7 @@
 title: "Segmentation of Hinode/XRT Full-Disk Images and Comparison with GOES (1–8 Å) X-Ray Flux."
 collection: publications
 permalink: /publication/2021-adithya
-date: 2021
+date: 2021-01-01
 venue: 'Solar Physics'
 paperurl: ''
 link: 'https://doi.org/10.1007/s11207-021-01785-6'

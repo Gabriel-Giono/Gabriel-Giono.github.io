@@ -2,7 +2,7 @@
 title: "COMPASSO – In-orbit Verification of Optical Key Technologies for Future GNSS – Mission description"
 collection: publications
 permalink: /publication/2022-schluter
-date: 2022
+date: 2022-01-01
 venue: 'Proceeding of the Navitec conference'
 paperurl: ''
 link: ''

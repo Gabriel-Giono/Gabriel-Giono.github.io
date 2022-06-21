@@ -2,7 +2,7 @@
 title: "Segmentation of Coronal Features to Understand the Solar EUV and UV Irradiance Variability III. Inclusion and Analysis of Bright Points."
 collection: publications
 permalink: /publication/2021-zwaard
-date: 2021
+date: 2021-01-01
 venue: 'Solar Physics'
 paperurl: ''
 link: 'https://doi.org/10.1007/s11207-021-01863-9'

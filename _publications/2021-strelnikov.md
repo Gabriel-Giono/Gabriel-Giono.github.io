@@ -2,7 +2,7 @@
 title: "Sounding rocket project “PMWE” for investigation of polar mesosphere winter echoes"
 collection: publications
 permalink: /publication/2021-strelnikov
-date: 2021
+date: 2021-01-01
 venue: 'Journal of Atmospheric and Solar-Terrestrial Physics'
 paperurl: ''
 link: 'https://doi.org/10.1016/j.jastp.2021.105596'
