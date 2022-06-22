@@ -70,11 +70,15 @@
       
       <!-- citation and icon code -->
 	  {% if post.line_author %}
-	  <p> 
-	  {{ post.line_author}} \n
-	  {{ post.line_title}}  \n
-	  {{ post.line_journal}} , doi:<a href="https://doi.org/{{ post.doi }}">{{ post.doi }}</a>
-	  </p>	  
+		  <p> 
+		  {{ post.line_author}} <br>
+		  {{ post.line_title}}  <br>
+		  {% if post.doi %}
+			{{ post.line_journal}} , doi:<a href="https://doi.org/{{ post.doi }}">{{ post.doi }}</a>
+		  {% else %}
+			{{ post.line_journal}}
+		  {% endif %}
+		  </p>	  
 	  {% else %}
 		  <p>
 		  {% if post.citation %}
